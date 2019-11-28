@@ -1,12 +1,7 @@
----
-title: "**Visual analytics in cognitive research**"
-author: "**_Jakub Konicek | Agile PhD School_**"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+# **Visual analytics in cognitive research**
+### **_Jakub Konicek | Agile PhD School_**
+
 __________________________________________________________________________________________________________________
 
 ## **Introduction**
