@@ -13,11 +13,11 @@ ________________________________________________________________________________
 
 This is a simple presentation of ideas, **how to apply reproducibility in my current research connected to visual analytics in cognitive research.** This idea arises at PhD shool at Tartu 2019. 
 
-_A reproducible paper ensures a reviewer or reader can recreate the computational workflow of a study or experiment, including the workflow of a study, computational process, including the prerequisite knowledge and the computational environment. Also, it requires a detailed description of the used software and data. What is one of the most important thing, both need to be openly available (N¸st et al, 2018)_
+_A reproducible paper ensures a reviewer or reader can recreate the computational workflow of a study or experiment, including the workflow of a study, computational process, including the prerequisite knowledge and the computational environment. Also, it requires a detailed description of the used software and data. What is one of the most important thing, both need to be openly available (N√ºst et al, 2018)_
 
 ### **Topic overview**
 
-In the case of PhD research, I work on dissertation thesis **Visual analytics in cognitive research**. With my supervisor prof. VÌt VoûenÌlek and scientific consultant dr. Alena Vondr·kov·, we successfully set several partial goals connected to visual analytics, data visualization, infographics etc. 
+In the case of PhD research, I work on dissertation thesis **Visual analytics in cognitive research**. With my supervisor prof. V√≠t Vo≈æen√≠lek and scientific consultant dr. Alena Vondr√°kov√°, we successfully set several partial goals connected to visual analytics, data visualization, infographics etc. 
 
 **The main goal of this research is to apply selected and evaluated methods of visual analytics in a result of methods of cognitive research in cartography and GIS technologies.** Application of methods itself will be used after a series of testing during several case studies. In the end, according to results, it could be possible to create a fully interactive visual analytics tool for evaluating data from cognitive research.
 
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 The main input for my data is eye-tracking testing. This technology produces mainly **spatial time-oriented data**. During the measuring process are eye-movement data collected in the database. The format of all datasets is the same, only stimulus in each project is different. During the measurement, time, position, movement is collected like an attribute to the final file.
 
-Because of that is possible to apply this data like input for testing different methods of visual analytics tools. Research is focused mainly on data produced at Department of geoinformatics, Palack˝ University Olomouc. Previous eye-tracking testings had a different type of stimulus, inputs and research question otherwise their file format is the style the same. Because of that is a suitable example for planned case studies. 
+Because of that is possible to apply this data like input for testing different methods of visual analytics tools. Research is focused mainly on data produced at Department of geoinformatics, Palack√Ω University Olomouc. Previous eye-tracking testings had a different type of stimulus, inputs and research question otherwise their file format is the style the same. Because of that is a suitable example for planned case studies. 
 
 ![_Data source_](etdata.JPG)
 
@@ -109,12 +109,12 @@ ________________________________________________________________________________
 
 The hardest task of all. Nowadays, I can not define concrete names who will gonna read my paper/research outputs. I can only prorovide names which I wish for enthusiastic readers.
 
-- Prof. VÌt VoûenÌlek - my supevisor with really charger shedule
-- Dr. Petr KubÌËek - initiator of this type of research in Czechia
+- Prof. V√≠t Vo≈æen√≠lek - my supevisor with really charger shedule
+- Dr. Petr Kub√≠ƒçek - initiator of this type of research in Czechia
 - Drs. Gennady Andrienko and Natalia Andrienko  - leading personalities in visual analytics
 
 
 
 __________________________________________________________________________________________________________________
 
-## **That¥s all folks!**
+## **That¬¥s all folks!**
