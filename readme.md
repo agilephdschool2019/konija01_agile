@@ -39,7 +39,7 @@ The main input for my data is eye-tracking testing. This technology produces mai
 
 Because of that is possible to apply this data like input for testing different methods of visual analytics tools. Research is focused mainly on data produced at Department of geoinformatics, Palacký University Olomouc. Previous eye-tracking testings had a different type of stimulus, inputs and research question otherwise their file format is the style the same. Because of that is a suitable example for planned case studies. 
 
-![_Data source_](etdata.JPG)
+![_Data source_](etdata.jpg)
 
  
 ### **Application of reproducibility** 
@@ -50,7 +50,7 @@ At the one hand, it is because of usage  current data inputs. All the data which
 
 On the other hand, **reproducibility is fully applied at research at all in some unique form**. Even though exactly the same data are not used like an input for the tool, tested visual analytics tool had been using some kind of similar type of data. Each of tested tool was described in some kind of scientific paper with several examples of usages. 
 
-![_Visual analytics methods_](vismethod.JPG)
+![_Visual analytics methods_](vismethod.jpg)
 
 __________________________________________________________________________________________________________________
 
@@ -65,7 +65,7 @@ Currently, I did almost nothing at all :)
 Nevertheless, I chose one particular part of my research which partly corresponding with the reproducibility. 
 I **graphically evaluated methods of visual analytics tools** suitable for analyzing eye-tracking data. I designed a unique representative icon set, which easily describes crucial functionality and usage of visual analytics tools. Graphically is described as input and output, user interface, the object of analysis and potential evaluation. That is connected with other scientific researches. 
 
-![_Graphical evaluation template_](graphical_evaluation.PNG)
+![_Graphical evaluation template_](graphical_evaluation.png)
 __________________________________________________________________________________________________________________
 
 #### **Why did you do it?**
@@ -77,7 +77,7 @@ ________________________________________________________________________________
 
 A **visual analytics tool will be graphically evaluated**, **long and boring descriptions will be eliminated**, **simple classification will be provided**. The searching process could be simplified and it could be easier to filter useless information. 
 
-![_Example of evaluated method_](evaluated.JPG)
+![_Example of evaluated method_](evaluated.jpg)
 __________________________________________________________________________________________________________________
 
 #### **What do the results mean in theory?**
