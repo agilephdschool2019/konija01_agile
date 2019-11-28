@@ -2,6 +2,6 @@
 
 Tartu, 25. - 28. 11. 2019
 
-Jakub Koníèek
+Jakub Konícek
 
-! [Workflow of my PhD thesis] (workflow.JPG)
+![Workflow of my PhD thesis](workflow.JPG)
