@@ -12,14 +12,13 @@ output:
 bibliography: samplebib.bib
 ---
 
-
-## **Introduction**
+# Introduction
 
 This is a simple presentation of ideas, **how to apply reproducibility in my current research connected to visual analytics in cognitive research.** This idea arises at PhD shool at Tartu 2019. 
 
 _A reproducible paper ensures a reviewer or reader can recreate the computational workflow of a study or experiment, including the workflow of a study, computational process, including the prerequisite knowledge and the computational environment. Also, it requires a detailed description of the used software and data. What is one of the most important thing, both need to be openly available (Nüst et al, 2018)_
 
-### **Topic overview**
+# Topic overview
 
 In the case of PhD research, I work on dissertation thesis **Visual analytics in cognitive research**. With my supervisor prof. Vít Voženílek and scientific consultant dr. Alena Vondráková, we successfully set several partial goals connected to visual analytics, data visualization, infographics etc. 
 
@@ -32,26 +31,25 @@ The final goal is about **debugging and evaluation of the tool** itself. It will
 
 Thanks to the elaboration of all partial research goals it will be possible to fulfil the main goal of the work and to publish a complex work describing the application of visual analysis in cognitive research not only in the field of cartography and geoinformation technologies. The work will include evaluation of visual analysis methods enriched with a wide range of practically applicable graphical outputs, whether in printed or digital form.
 
+# Visual workflow
 
-### **Visual workflow**
+```{r, echo = FALSE, out.width="100%", fig.cap="Workflow of PhD thesis"}
+knitr::include_graphics('workflow.JPG')
+```
 
+# Reproducibility
 
-![_Workflow of PhD thesis_](workflow.JPG)
-
-__________________________________________________________________________________________________________________
-
-## **Reproducibility**
-
-### **Working data**
+## Working data
 
 The main input for my data is eye-tracking testing. This technology produces mainly **spatial time-oriented data**. During the measuring process are eye-movement data collected in the database. The format of all datasets is the same, only stimulus in each project is different. During the measurement, time, position, movement is collected like an attribute to the final file.
 
 Because of that is possible to apply this data like input for testing different methods of visual analytics tools. Research is focused mainly on data produced at Department of geoinformatics, Palacký University Olomouc. Previous eye-tracking testings had a different type of stimulus, inputs and research question otherwise their file format is the style the same. Because of that is a suitable example for planned case studies. 
 
-![_Data source_](etdata.JPG)
+```{r, echo = FALSE, out.width="100%", fig.cap="Data source"}
+knitr::include_graphics('etdata.jpg')
+```
 
- 
-### **Application of reproducibility** 
+## Application of reproducibility
 
 The issue of usage reproducibility in this current research could be very _tricky_. 
 
@@ -59,66 +57,60 @@ At the one hand, it is because of usage  current data inputs. All the data which
 
 On the other hand, **reproducibility is fully applied at research at all in some unique form**. Even though exactly the same data are not used like an input for the tool, tested visual analytics tool had been using some kind of similar type of data. Each of tested tool was described in some kind of scientific paper with several examples of usages. 
 
-![_Visual analytics methods_](vismethod.JPG)
+```{r, echo = FALSE, out.width="100%", fig.cap="Visual analytics methods"}
+knitr::include_graphics('vismethod.jpg')
+```
 
-__________________________________________________________________________________________________________________
-
-## **Science communication** _as a conclusion_
+# Science communication _as a conclusion_
 
 According to publishing this research to the scientific community, it very important to specify the goals of the potential application of reproducibility. In general, there is a way how to apply for this challenge into reality. Following Q&A should provide a clear description of the potential research. 
-__________________________________________________________________________________________________________________
 
-#### **What did you do?**
+## What did you do?
 
 Currently, I did almost nothing at all :) 
 Nevertheless, I chose one particular part of my research which partly corresponding with the reproducibility. 
 I **graphically evaluated methods of visual analytics tools** suitable for analyzing eye-tracking data. I designed a unique representative icon set, which easily describes crucial functionality and usage of visual analytics tools. Graphically is described as input and output, user interface, the object of analysis and potential evaluation. That is connected with other scientific researches. 
 
-![_Graphical evaluation template_](graphical_evaluation.PNG)
-__________________________________________________________________________________________________________________
+```{r, echo = FALSE, out.width="100%", fig.cap="Graphical evaluation template"}
+knitr::include_graphics('graphical_evaluation.png')
+```
 
-#### **Why did you do it?**
+## Why did you do it?
 
 The main approach for creation of this graphical evaluation is **simplifying of the searching process according to finding suitable visual analytics tool for given research**. Visual materials provide the same information a thousand times faster than written text. In this case, the visual ranking is better to use. 
-__________________________________________________________________________________________________________________
 
-#### **What happened when you do it?**
+## What happened when you do it?
 
 A **visual analytics tool will be graphically evaluated**, **long and boring descriptions will be eliminated**, **simple classification will be provided**. The searching process could be simplified and it could be easier to filter useless information. 
 
-![_Example of evaluated method_](evaluated.JPG)
-__________________________________________________________________________________________________________________
+```{r, echo = FALSE, out.width="100%", fig.cap="Example of evaluated method"}
+knitr::include_graphics('evaluated.jpg')
+```
 
-#### **What do the results mean in theory?**
+## What do the results mean in theory?
 
 The graphical evaluation template **could provide a new look to description of different types of phenomena**. That could be the inspiration for another researcher from different scientific areas to create templates for describing similar tools in their areas of interest. 
-__________________________________________________________________________________________________________________
 
-#### **What do the results mean in practice?**
+## What do the results mean in practice?
 
 According to my research, practically I will have **schematically and comprehensibly evaluated list of visual analytical tools**, which could be an input for my further case studies. I hope, the graphical evaluation also helps other researchers who're dealing with visual analytics, to simplify their research and open it to general public too.
-__________________________________________________________________________________________________________________
 
-#### **What is the key benefit for readers?**
+## What is the key benefit for readers?
 
 The key benefit of my methodology is a **fully convertible graphical template**, which **could be redesigned into a variety of topics** regarding scientific research. Otherwise, the main goal is providing a simple graphical evaluation of visual analytical tools, which means faster and better understanding of the topic.
-__________________________________________________________________________________________________________________
 
-#### **What remains unresolved?**
+## What remains unresolved?
 
 Further research could be connected with **user evaluation** and **optimization** of a graphical template from researchers and the general public point of view. It will definitely bring some kind of improvement in terminology, the suitability of categorization and representation.
-__________________________________________________________________________________________________________________
 
-#### **Who is the reader?**
+## Who is the reader?
 
 The hardest task of all. Nowadays, I can not define concrete names who will gonna read my paper/research outputs. I can only prorovide names which I wish for enthusiastic readers.
 
 - Prof. Vít Voženílek - my supevisor with really charger shedule
+
 - Dr. Petr Kubíček - initiator of this type of research in Czechia
+
 - Drs. Gennady Andrienko and Natalia Andrienko  - leading personalities in visual analytics
 
-
-
-__________________________________________________________________________________________________________________
-
-## **That´s all folks!**
+**That´s all folks!**
