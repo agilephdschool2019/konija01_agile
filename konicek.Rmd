@@ -31,9 +31,7 @@ The final goal is about **debugging and evaluation of the tool** itself. It will
 
 Thanks to the elaboration of all partial research goals it will be possible to fulfil the main goal of the work and to publish a complex work describing the application of visual analysis in cognitive research not only in the field of cartography and geoinformation technologies. The work will include evaluation of visual analysis methods enriched with a wide range of practically applicable graphical outputs, whether in printed or digital form.
 
-# Visual workflow
-
-```{r, echo = FALSE, out.width="100%", fig.cap="Workflow of PhD thesis"}
+```{r, echo = FALSE, out.width="100%", fig.cap="Visual workflow of PhD thesis"}
 knitr::include_graphics('workflow.JPG')
 ```
 
@@ -67,7 +65,7 @@ According to publishing this research to the scientific community, it very impor
 
 ## What did you do?
 
-Currently, I did almost nothing at all :) 
+Currently, I did almost nothing at all.
 Nevertheless, I chose one particular part of my research which partly corresponding with the reproducibility. 
 I **graphically evaluated methods of visual analytics tools** suitable for analyzing eye-tracking data. I designed a unique representative icon set, which easily describes crucial functionality and usage of visual analytics tools. Graphically is described as input and output, user interface, the object of analysis and potential evaluation. That is connected with other scientific researches. 
 
@@ -113,4 +111,3 @@ The hardest task of all. Nowadays, I can not define concrete names who will gonn
 
 - Drs. Gennady Andrienko and Natalia Andrienko  - leading personalities in visual analytics
 
-**That´s all folks!**
