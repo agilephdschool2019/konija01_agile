@@ -4,7 +4,6 @@ author:
   - name: Jakub Konicek
     affiliation: University of Olomouc, Czech Republic
     email: jakub.konicek@upol.cz
-    orcid: 0000-0000-0000-0000
 abstract: |
    A reproducible paper ensures a reviewer or reader can recreate the computational workflow of a study or experiment, including the workflow of a study, computational process, including the prerequisite knowledge and the computational environment.
 output:
